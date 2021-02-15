@@ -1,4 +1,4 @@
-# Study_projets
+# A/B testing of the new web-site design
 ## Description
 The project is a part of my Udacity nanodegree program in Data Analytics.
 
